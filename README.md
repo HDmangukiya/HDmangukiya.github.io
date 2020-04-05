@@ -1,2 +1,2 @@
-# HdMangukiya.github.io/cv
+# HdMangukiya.github.io
 Hardik Mangukiya CV
